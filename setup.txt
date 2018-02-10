@@ -2,4 +2,18 @@ Weclome to Hyperledger Fabric:
 
 Basic System Requirement:
 
-Setup of HyperLedger Fabric: Windows7
+Setting-up Hyperledger Fabric on Windows:
+
+Part 1: Windows7 OS
+Install All the prerequisites 
+1.	Install CURL
+2.	Install Docker Toolbox (Docker - v1.13 or higher & Docker Compose - v1.8 or higher)
+3.	Install GO
+4.	Install NodeJS (Node.js & npm - node v6.9.5 and npm v3.10.10)
+5.	nvm - if you want to use
+
+Note: GIT & Oraclce VM will get installed automatically with Docker Toolbox(Check the options while installing)
+
+
+
+
