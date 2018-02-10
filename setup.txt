@@ -21,4 +21,8 @@ If cURL not installed, Download it using following url: https://curl.haxx.se/dow
 Click on download wizard
 
 Next click on curl executable
+
+
+2.	Install Docker Toolbox (Docker - v1.13 or higher & Docker Compose - v1.8 or higher)
+======================================================================================
  
