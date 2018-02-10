@@ -14,6 +14,11 @@ Install All the prerequisites
 
 Note: GIT & Oraclce VM will get installed automatically with Docker Toolbox(Check the options while installing)
 
+1. Installation of CRUL:
+=======================
+If cURL not installed, Download it using following url: https://curl.haxx.se/download.html
 
+Click on download wizard
 
-
+Next click on curl executable
+ 
